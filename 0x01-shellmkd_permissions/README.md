@@ -3,7 +3,7 @@ Who am I
 Groups
 New owner
 Empty!
- Execute
+Execute
 Multiple permissions
 Everybody!
 James Bond
@@ -12,4 +12,3 @@ Look in the mirror
 Directories
 More directories
 Change group
-
